@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Modern Art UI</string>
+    <color name="black">#000000</color>
+    <color name="cor_vermelho">#ff0000</color>
+    <color name="cor_branco">#FFFFFF</color>
+    <color name="cor_azul">#054f77</color>
+    <color name="cor_azul_menos">#6699aa</color>
+    <color name="cor_rosa">#FC0FC0</color>
+</resources>
